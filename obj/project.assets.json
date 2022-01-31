@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zak/Documents/c#/Dwarf Unit Name Generator/Dwarf Unit Name Generator.csproj",
+      "projectUniqueName": "/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/Dwarf Unit Name Generator.csproj",
       "projectName": "Dwarf Unit Name Generator",
-      "projectPath": "/home/zak/Documents/c#/Dwarf Unit Name Generator/Dwarf Unit Name Generator.csproj",
+      "projectPath": "/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/Dwarf Unit Name Generator.csproj",
       "packagesPath": "/home/zak/.nuget/packages/",
-      "outputPath": "/home/zak/Documents/c#/Dwarf Unit Name Generator/obj/",
+      "outputPath": "/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zak/.nuget/NuGet/NuGet.Config"

@@ -13,3 +13,18 @@
 /home/zak/Documents/c#/Dwarf Unit Name Generator/obj/Debug/net6.0/ref/Dwarf Unit Name Generator.dll
 /home/zak/Documents/c#/Dwarf Unit Name Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.pdb
 /home/zak/Documents/c#/Dwarf Unit Name Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.genruntimeconfig.cache
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/bin/Debug/net6.0/Dwarf Unit Name Generator
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/bin/Debug/net6.0/Dwarf Unit Name Generator.deps.json
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/bin/Debug/net6.0/Dwarf Unit Name Generator.runtimeconfig.json
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/bin/Debug/net6.0/Dwarf Unit Name Generator.dll
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/bin/Debug/net6.0/ref/Dwarf Unit Name Generator.dll
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/bin/Debug/net6.0/Dwarf Unit Name Generator.pdb
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.csproj.AssemblyReference.cache
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.GeneratedMSBuildEditorConfig.editorconfig
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.AssemblyInfoInputs.cache
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.AssemblyInfo.cs
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.csproj.CoreCompileInputs.cache
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.dll
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/ref/Dwarf Unit Name Generator.dll
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.pdb
+/home/zak/Documents/c#/Dwarf-Unit-Name-Generator/obj/Debug/net6.0/Dwarf Unit Name Generator.genruntimeconfig.cache
