@@ -36,6 +36,7 @@ static string[] initializeGeneralUnits(){
         "Helmets",
         "Killers",
         "Legion",
+        "Marauders",
         "Raiders",
         "Regiment",
         "Scars",
@@ -43,6 +44,7 @@ static string[] initializeGeneralUnits(){
         "Sons",
         "Squadron",
         "Volunteers",
+        "Wardens",
         "Warriors",
         "Watch"
     };
@@ -104,7 +106,8 @@ static string[] initializeRanged(){
         "Quarrellers",
         "Rangers",
         "Shooters",
-        "Skirmishers"
+        "Skirmishers",
+        "Stalkers"
     };
 
     return list;
