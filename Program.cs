@@ -19,7 +19,7 @@ units = units.Concat(ranged).ToArray();
 int iUnit = rnd.Next(0, units.Length);
 int iAdjective = rnd.Next(0, adjectives.Length);
 
-System.Console.WriteLine("6. {0} {1}", adjectives[iAdjective], units[iUnit]);
+System.Console.WriteLine("1. {0} {1}", adjectives[iAdjective], units[iUnit]);
 
 
 static string[] initializeGeneralUnits(){   
