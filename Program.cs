@@ -9,6 +9,7 @@ string[] adjectives = initializeAdjectives();
 
 // Console.WriteLine("Specify or leave empty for total random.");
 // System.Console.WriteLine("-w [weapontype] for weapon type");
+// test
 
 Random rnd = new Random();
 units = units.Concat(melee).ToArray();
